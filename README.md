@@ -1,2 +1,3 @@
 # apnacollege-de
-sggd
+this is first git repository
+author - suraj sonawane
